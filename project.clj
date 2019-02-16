@@ -1,4 +1,4 @@
-(defproject mlp "0.0.1-SNAPSHOT"
+(defproject org.clojars.sulami/mlp "0.0.1-SNAPSHOT"
   :description "Multi-Level Perceptron Library"
   :url "https://github.com/sulami/mlp"
   :license {:name "Eclipse Public License"
