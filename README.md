@@ -1,21 +1,20 @@
 # mlp
-[![Build Status](https://travis-ci.org/sulami/mlp.svg?branch=master)](https://travis-ci.org/sulami/mlp)
-[![codecov](https://codecov.io/gh/sulami/mlp/branch/master/graph/badge.svg)](https://codecov.io/gh/sulami/mlp)
-[![Clojars Project](https://img.shields.io/clojars/v/mlp.svg)](https://clojars.org/mlp)
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.sulami/mlp.svg)](https://clojars.org/org.clojars.sulami/mlp)
 
-A Clojure library designed to ... well, that part is up to you.
+A very basic multi-level-perceptron library (also known as recurring neural
+network). It can figure out eg. XOR between two bits. Maybe more in the future.
 
 ```clj
-[mlp "0.0.0"]
+[org.clojars.sulami/mlp "0.0.1"]
 ```
 
 ## Usage
 
-FIXME
+TBD
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2019 Robin Schroer
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
